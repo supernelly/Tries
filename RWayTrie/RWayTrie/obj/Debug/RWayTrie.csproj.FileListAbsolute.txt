@@ -1,0 +1,7 @@
+C:\Users\Nelson\Documents\COIS 3020\RWayTrie\RWayTrie\bin\Debug\RWayTrie.exe.config
+C:\Users\Nelson\Documents\COIS 3020\RWayTrie\RWayTrie\bin\Debug\RWayTrie.exe
+C:\Users\Nelson\Documents\COIS 3020\RWayTrie\RWayTrie\bin\Debug\RWayTrie.pdb
+C:\Users\Nelson\Documents\COIS 3020\RWayTrie\RWayTrie\obj\Debug\RWayTrie.csprojAssemblyReference.cache
+C:\Users\Nelson\Documents\COIS 3020\RWayTrie\RWayTrie\obj\Debug\RWayTrie.csproj.CoreCompileInputs.cache
+C:\Users\Nelson\Documents\COIS 3020\RWayTrie\RWayTrie\obj\Debug\RWayTrie.exe
+C:\Users\Nelson\Documents\COIS 3020\RWayTrie\RWayTrie\obj\Debug\RWayTrie.pdb
